@@ -1,0 +1,1546 @@
+[
+  {
+    "countryEng": "Afghanistan",
+    "countryJa": "アフガニスタン",
+    "region": "Asia",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30 日間の電子ビザ: 訪問者はカブール国際 (KBL) に到着する必要があります。\n日本政府は安全上の懸念から、いかなる理由であってもアフガニスタンへの旅行を控えるよう国民に勧告している。"
+  },
+  {
+    "countryEng": "Albania",
+    "countryJa": "アルバニア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Algeria",
+    "countryJa": "アルジェリア",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "承認された旅行代理店が企画した南部の一部地域へのツアーに参加する旅行者は、最大 30 日間の到着ビザを取得できます。"
+  },
+  {
+    "countryEng": "Andorra",
+    "countryJa": "アンドラ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "Angola",
+    "countryJa": "アンゴラ",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30 日 1 回の旅行につき 30 日ですが、観光目的のみの場合、1 暦年内で 90 日を超えてはなりません。\n訪問者は往復の航空券とホテルの予約確認書が必要です。\n国際予防接種証明書が必要です。"
+  },
+  {
+    "countryEng": "Antigua and Barbuda",
+    "countryJa": "アンティグア・バーブーダ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "6ヶ月"
+  },
+  {
+    "countryEng": "Argentina",
+    "countryJa": "アルゼンチン",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Armenia",
+    "countryJa": "アルメニア",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180日 1年間のうち180日。"
+  },
+  {
+    "countryEng": "Australia",
+    "countryJa": "オーストラリア",
+    "region": "Oceania",
+    "statusRaw": "Electronic Travel Authority",
+    "category": "それ以外",
+    "notes": "90 日 許可された場合、12 か月間の各訪問につき 90 日。オーストラリア到着時にスマートゲートを使用して入国できます。"
+  },
+  {
+    "countryEng": "Austria",
+    "countryJa": "オーストリア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Azerbaijan",
+    "countryJa": "アゼルバイジャン",
+    "region": "Asia",
+    "statusRaw": "Free eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30 days Upon arrival at the any international airport, visitors can obtain visa through a kiosk.\ne-Visa fee is free."
+  },
+  {
+    "countryEng": "Bahamas",
+    "countryJa": "バハマ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Bahrain",
+    "countryJa": "バーレーン",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "14日"
+  },
+  {
+    "countryEng": "Bangladesh",
+    "countryJa": "バングラデシュ",
+    "region": "Asia",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30 日間 ダッカ、チッタゴン、シレットの国際空港でご利用いただけます。"
+  },
+  {
+    "countryEng": "Barbados",
+    "countryJa": "バルバドス",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "6ヶ月"
+  },
+  {
+    "countryEng": "Belarus",
+    "countryJa": "ベラルーシ",
+    "region": "Europe",
+    "statusRaw": "Visa not required / Free eVisa",
+    "category": "ビザ不要",
+    "notes": "30 日間 国際空港経由で到着および出発する必要があります (ロシア - ベラルーシ間はビザ不要は適用されません)。\n電子ビザは国境と空港で入手できます。\n電子ビザ手数料は無料です。"
+  },
+  {
+    "countryEng": "Belgium",
+    "countryJa": "ベルギー",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Belize",
+    "countryJa": "ベリーズ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Benin",
+    "countryJa": "ベナン",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30日 国際予防接種証明書が必要です。\n電子ビザは 3 種類あります。1 回の入国で 30 日間有効な電子ビザ (50 ユーロ)、複数回の入国で 30 日間有効の電子ビザ (75 ユーロ)、複数回の入国で 90 日間有効の電子ビザ (100 ユーロ) です。"
+  },
+  {
+    "countryEng": "Bhutan",
+    "countryJa": "ブータン",
+    "region": "Asia",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "90 日間 ブータンへのほぼすべての訪問者に対し、1 人あたり 1 泊あたり 200 米ドルの持続可能な開発費 (SDF) がかかります。さらに、2023 年 9 月 1 日から 2027 年 8 月 31 日までに米ドルで支払いが行われた場合、SDF は 100 米ドルとなります。"
+  },
+  {
+    "countryEng": "Bolivia",
+    "countryJa": "ボリビア多民族国",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Bosnia and Herzegovina",
+    "countryJa": "ボスニア・ヘルツェゴビナ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 6 か月以内の 90 日。"
+  },
+  {
+    "countryEng": "Botswana",
+    "countryJa": "ボツワナ",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 1 年の期間内で 90 日。"
+  },
+  {
+    "countryEng": "Brazil",
+    "countryJa": "ブラジル",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 1 回の訪問につき最大 90 日、ただし年間 180 日を超えない。"
+  },
+  {
+    "countryEng": "Brunei",
+    "countryJa": "ブルネイ・ダルサラーム",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Bulgaria",
+    "countryJa": "ブルガリア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Burkina Faso",
+    "countryJa": "ブルキナファソ",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "日本政府は安全上の懸念から、いかなる理由であってもブルキナファソへの旅行を控えるよう国民に勧告している。"
+  },
+  {
+    "countryEng": "Burundi",
+    "countryJa": "ブルンジ",
+    "region": "Africa",
+    "statusRaw": "Online Visa / Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "1 か月 2021 年 12 月より、ビザが必要なすべての国の乗客は、ブジュンブラ国際空港およびすべての国境で到着時にビザを取得できるようになります。"
+  },
+  {
+    "countryEng": "Cambodia",
+    "countryJa": "カンボジア",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Cameroon",
+    "countryJa": "カメルーン",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": ""
+  },
+  {
+    "countryEng": "Canada",
+    "countryJa": "カナダ",
+    "region": "Americas",
+    "statusRaw": "Electronic Travel Authorization",
+    "category": "E-Visa",
+    "notes": "空路で到着する場合は6か月のeTAが必要です。\nまた、車、バス、電車、船（クルーズ船を含む）で到着​​する場合はeTAは必要ありません。"
+  },
+  {
+    "countryEng": "Cape Verde",
+    "countryJa": "カーボベルデ",
+    "region": "Africa",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30 日間 サル、ボア ビスタ、サン ビセンテ、またはサンティアゴ国際空港でご利用いただけます。到着ビザの費用は約 25 ユーロです。"
+  },
+  {
+    "countryEng": "Central African Republic",
+    "countryJa": "中央アフリカ共和国",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "日本政府は安全上の懸念から中央アフリカ共和国への旅行を控えるよう国民に勧告している。"
+  },
+  {
+    "countryEng": "Chad",
+    "countryJa": "チャド",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": ""
+  },
+  {
+    "countryEng": "Chile",
+    "countryJa": "チリ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "China",
+    "countryJa": "中国",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30 日間のビザ免除は 2026 年 12 月 31 日まで有効です。\nあらゆる交通手段を使用した第三国または地域（香港、マカオ、台湾を含む）への 240 時間（10 日間）のビザなし渡航。確認済みの往路航空券/旅程を所持し、64 か所の承認された港のうちの 1 つから入国する必要があります。\nこの期間中、ビザなしでの通過が許可されている 24 州内を自由に旅行し、観光、ビジネス、訪問に従事することができます。\nほとんどの国際空港では、空港から出ることなく第三国または地域 (香港、マカオ、台湾を含む) への 24 時間ビザなし乗り継ぎが可能です。\n空港から出る必要がある旅行者は、入国管理局から一時入国許可を取得することができます。\n香港から陸路または海路で指定された入国港に到着し、深セン内に滞在する場合、深セン行きの 5 日間の港ビザ (到着ビザ)。\n珠海または厦門の指定された入国港に到着する場合、それぞれの都市内に滞在する場合の 3 日間の港ビザ (到着ビザ)。\nツアーグループのクルーズ船乗客は、天津を含むがこれに限定されない中国の海岸線沿いのクルーズ港に到着する場合、15日間のビザなし入国が可能。大連。上海;連雲港市。温州;舟山市。アモイ;青島;広州;深セン;北海;海口。三亜。さらに内陸部の沿岸部のすべての地域（および同等の地域）および北京に旅行する可能性があります。\n緊急かつ正当な理由で旅行する場合は、ポートビザ（到着ビザ）を申請できます。ポートビザの事前許可を強くお勧めします。そうしないと、航空会社によって搭乗が拒否される場合があります。"
+  },
+  {
+    "countryEng": "Colombia",
+    "countryJa": "コロンビア",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 90 日 - 1 年間の滞在期間内で最大 180 日まで延長可能。"
+  },
+  {
+    "countryEng": "Comoros",
+    "countryJa": "コモロ",
+    "region": "Africa",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "45 日間 どの国の国民も最大 45 日間の滞在の到着ビザを取得できます。また、料金は 30 ユーロまたは 50 ドルです。"
+  },
+  {
+    "countryEng": "Republic of the Congo",
+    "countryJa": "コンゴ共和国",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": ""
+  },
+  {
+    "countryEng": "Democratic Republic of the Congo",
+    "countryJa": "コンゴ民主共和国",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "7日間"
+  },
+  {
+    "countryEng": "Costa Rica",
+    "countryJa": "コスタリカ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180日"
+  },
+  {
+    "countryEng": "Côte d'Ivoire",
+    "countryJa": "コートジボワール",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "3 か月の電子ビザ所有者は、ポール ブエ空港経由で到着する必要があります。"
+  },
+  {
+    "countryEng": "Croatia",
+    "countryJa": "クロアチア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Cuba",
+    "countryJa": "キューバ",
+    "region": "Americas",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Cyprus",
+    "countryJa": "キプロス",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "Czech Republic",
+    "countryJa": "チェコ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Denmark",
+    "countryJa": "デンマーク",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 他のシェンゲン諸国 (他の北欧諸国を除く) での過去の滞在期間に関係なく、180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Djibouti",
+    "countryJa": "ジブチ",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Dominica",
+    "countryJa": "ドミニカ国",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "6ヶ月"
+  },
+  {
+    "countryEng": "Dominican Republic",
+    "countryJa": "ドミニカ共和国",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Ecuador",
+    "countryJa": "エクアドル",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Egypt",
+    "countryJa": "エジプト",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "El Salvador",
+    "countryJa": "エルサルバドル",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Equatorial Guinea",
+    "countryJa": "赤道ギニア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": ""
+  },
+  {
+    "countryEng": "Eritrea",
+    "countryJa": "エリトリア",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": ""
+  },
+  {
+    "countryEng": "Estonia",
+    "countryJa": "エストニア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Eswatini",
+    "countryJa": "スワジランド",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Ethiopia",
+    "countryJa": "エチオピア",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "90 日間の到着ビザは、アディスアベバ ボレ国際空港でのみ取得可能です。\n電子ビザ保持者は、アディスアベバ ボレ国際空港経由で到着する必要があります。\n電子ビザは 30 日間または 90 日間利用可能です。"
+  },
+  {
+    "countryEng": "Fiji",
+    "countryJa": "フィジー",
+    "region": "Oceania",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "4ヶ月"
+  },
+  {
+    "countryEng": "Finland",
+    "countryJa": "フィンランド",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "France",
+    "countryJa": "フランス",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Gabon",
+    "countryJa": "ガボン",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "90 日間の電子ビザ保持者は、リーブルヴィル国際空港経由で到着する必要があります。"
+  },
+  {
+    "countryEng": "Gambia",
+    "countryJa": "ガンビア",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "旅行前にガンビア入国管理局から入国許可を取得する必要があります。"
+  },
+  {
+    "countryEng": "Georgia",
+    "countryJa": "グルジア",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "1年"
+  },
+  {
+    "countryEng": "Germany",
+    "countryJa": "ドイツ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Ghana",
+    "countryJa": "ガーナ",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": ""
+  },
+  {
+    "countryEng": "Greece",
+    "countryJa": "ギリシャ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Grenada",
+    "countryJa": "グレナダ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Guatemala",
+    "countryJa": "グアテマラ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 days"
+  },
+  {
+    "countryEng": "Guinea",
+    "countryJa": "ギニア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "90日間の国際ワクチン接種証明書が必要です。"
+  },
+  {
+    "countryEng": "Guinea-Bissau",
+    "countryJa": "ギニアビサウ",
+    "region": "Africa",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "90 日 すべての国が発行したパスポートの所有者は、最大 90 日間滞在できる到着ビザを取得できます。"
+  },
+  {
+    "countryEng": "Guyana",
+    "countryJa": "ガイアナ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Haiti",
+    "countryJa": "ハイチ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3か月 日本政府は、ギャングによる暴力行為が続いているため、いかなる理由であってもハイチへの旅行を控えるよう国民に勧告した。"
+  },
+  {
+    "countryEng": "Honduras",
+    "countryJa": "ホンジュラス",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Hungary",
+    "countryJa": "ハンガリー",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Iceland",
+    "countryJa": "アイスランド",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "India",
+    "countryJa": "インド",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "60 日間の到着ビザは、バンガロール、チェンナイ、デリー、ハイデラバード、コルカタ、ムンバイの空港でのみ発行されます。\n日本国民も、30 日間オンラインで電子ビザを申請できます。\n電子ビザ保持者は、32 の指定空港または 5 つの指定港を経由して到着する必要があります。\nインドの電子観光ビザは、1 暦年内に 2 回のみ取得できます。\nパキスタン出身の外国人、またはパキスタンのパスポートを所有する外国人には電子ビザの資格がありません。パキスタン国民ではないが、両親または祖父母（父方または母方のいずれか）がパキスタンで生まれたか、パキスタンの永住者であった外国人も電子ビザを取得する資格はありません。"
+  },
+  {
+    "countryEng": "Indonesia",
+    "countryJa": "インドネシア",
+    "region": "Asia",
+    "statusRaw": "e-VOA / Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Iran",
+    "countryJa": "イラン・イスラム共和国",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "15 日 6 か月以内の 15 日。\n日本政府は、政治情勢と現在進行中の紛争を理由に、イランへの旅行を控えるよう国民に勧告しています。"
+  },
+  {
+    "countryEng": "Iraq",
+    "countryJa": "イラク",
+    "region": "Asia",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Ireland",
+    "countryJa": "アイルランド",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Israel",
+    "countryJa": "イスラエル",
+    "region": "Asia",
+    "statusRaw": "Electronic Travel Authorization",
+    "category": "E-Visa",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Italy",
+    "countryJa": "イタリア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Jamaica",
+    "countryJa": "ジャマイカ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Jordan",
+    "countryJa": "ヨルダン",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "到着時に 30 日間のビザを取得できます。費用は合計 40 ヨルダン ディナールで、ほとんどの国際入国港および陸上国境検問所 (キング フセイン/アレンビー橋を除く) で取得できます。"
+  },
+  {
+    "countryEng": "Kazakhstan",
+    "countryJa": "カザフスタン",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Kenya",
+    "countryJa": "ケニア",
+    "region": "Africa",
+    "statusRaw": "Electronic Travel Authorisation",
+    "category": "それ以外",
+    "notes": "90 日 申請は旅行の 90 日前まで行うことができ、少なくとも 3 日前までに提出する必要があります。\neTA手数料は32.50ドルです。\n宿泊予定ホテルの予約証明書が必要です（友人と宿泊する場合は招待状でも可）。\n黄熱病流行国から来る場合は、黄熱病予防接種証明書が必要です。\nルワンダまたはウガンダが発行する東アフリカの観光ビザでも入国できます。"
+  },
+  {
+    "countryEng": "Kiribati",
+    "countryJa": "キリバス",
+    "region": "Oceania",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "North Korea",
+    "countryJa": "朝鮮民主主義人民共和国",
+    "region": "Asia",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "北朝鮮には在外公館が不足しているため、日本政府は国民に対し北朝鮮への旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "South Korea",
+    "countryJa": "韓国",
+    "region": "Asia",
+    "statusRaw": "Electronic Travel Authorization",
+    "category": "E-Visa",
+    "notes": "90 日間 日本国民は、最長 90 日間ビザなしで短期訪問（例：ツアー、親戚や友人の訪問、簡単な会合への出席）として韓国に入国できますが、検疫要件に注意する必要があります。行きまたは帰りの航空券も必要です。教師であろうと、その他の立場であろうと、観光ビザで働くことは違法です。\nすべての訪問者は指紋を採取されます。 2021 年 9 月から、旅行者は韓国電子渡航認証 (K-ETA) が必要になります。有効期間は承認日から3年間です。\n韓国政府は、2023年4月1日から2025年12月31日まで、ビジネスまたは観光目的で90日以内に韓国を訪問する27か国の国民にはK-ETAの取得が不要であると発表した。"
+  },
+  {
+    "countryEng": "Kuwait",
+    "countryJa": "クウェート",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Kyrgyzstan",
+    "countryJa": "キルギス",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "60 日の期間内で 30 日。"
+  },
+  {
+    "countryEng": "Laos",
+    "countryJa": "ラオス人民民主共和国",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "15日"
+  },
+  {
+    "countryEng": "Latvia",
+    "countryJa": "ラトビア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Lebanon",
+    "countryJa": "レバノン",
+    "region": "Asia",
+    "statusRaw": "Free visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "1ヶ月 さらに2ヶ月延長可能。\nイスラエルのビザや印鑑がなく、電話番号、レバノンの住所、返金不可の往復または周遊チケットを所持している場合、ベイルート国際空港またはその他の入国地で無料で付与されます。\n日本政府は国民に対し、安全上の懸念とレバノンで紛争が続いていることから、いかなる目的であってもレバノンへの旅行を控えるよう勧告している。レバノン在住の邦人は直ちに出国するよう勧告されている。"
+  },
+  {
+    "countryEng": "Lesotho",
+    "countryJa": "レソト",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Liberia",
+    "countryJa": "リベリア",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": ""
+  },
+  {
+    "countryEng": "Libya",
+    "countryJa": "リビア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "日本政府はリビアの経済不安定のため、国民に対しリビアへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Liechtenstein",
+    "countryJa": "リヒテンシュタイン",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Lithuania",
+    "countryJa": "リトアニア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Luxembourg",
+    "countryJa": "ルクセンブルク",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Madagascar",
+    "countryJa": "マダガスカル",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "90 日 61 ～ 90 日間の滞在の場合、ビザ料金は 59 米ドルです。"
+  },
+  {
+    "countryEng": "Malawi",
+    "countryJa": "マラウイ",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Malaysia",
+    "countryJa": "マレーシア",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Maldives",
+    "countryJa": "モルディブ",
+    "region": "Asia",
+    "statusRaw": "Free visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Mali",
+    "countryJa": "マリ",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "日本政府は、軍事情勢が続いていることから国民にマリへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Malta",
+    "countryJa": "マルタ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Marshall Islands",
+    "countryJa": "マーシャル諸島",
+    "region": "Oceania",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "90 日間 クェゼリンへの旅行を希望する訪問者は、米軍が発行した入国許可を保持する必要があります。"
+  },
+  {
+    "countryEng": "Mauritania",
+    "countryJa": "モーリタニア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30 日間 ヌアクショット・ウムトンシー国際空港でご利用いただけます。モーリタニアの到着ビザを発行できるのはヌアクショット・オウムトンシー国際空港だけです。他の入り口からは大使館まで車で行く必要があります。"
+  },
+  {
+    "countryEng": "Mauritius",
+    "countryJa": "モーリシャス",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Mexico",
+    "countryJa": "メキシコ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180日"
+  },
+  {
+    "countryEng": "Micronesia",
+    "countryJa": "ミクロネシア連邦",
+    "region": "Oceania",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Moldova",
+    "countryJa": "モルドバ共和国",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "Monaco",
+    "countryJa": "モナコ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "Mongolia",
+    "countryJa": "モンゴル",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Montenegro",
+    "countryJa": "モンテネグロ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Morocco",
+    "countryJa": "モロッコ",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Mozambique",
+    "countryJa": "モザンビーク",
+    "region": "Africa",
+    "statusRaw": "Electronic Travel Authorization",
+    "category": "E-Visa",
+    "notes": "30 日 訪問者は旅行の少なくとも 48 時間前に e-Visa プラットフォームで ETA を登録し、48 米ドルの手数料を支払う必要があります。"
+  },
+  {
+    "countryEng": "Myanmar",
+    "countryJa": "ミャンマー",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "28 日 / 30 日の到着ビザ - 2025 年 10 月 21 日から 1 年間。\nヤンゴン、ネピドー、マンダレーの空港経由、またはタイとの陸路国境通過（タチレク、ミャワディ、コータウン）経由で到着する必要があります。"
+  },
+  {
+    "countryEng": "Namibia",
+    "countryJa": "ナミビア",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "3 か月 / 90 日の到着ビザは次の場所で入手できます。\nホセア クタコ国際空港\nインパリラ島\nカティマ・ムリロ\nンゴマ\nトランス カラハリ (ブイテポス)\nウォルビスベイ空港"
+  },
+  {
+    "countryEng": "Nauru",
+    "countryJa": "ナウル",
+    "region": "Oceania",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": ""
+  },
+  {
+    "countryEng": "Nepal",
+    "countryJa": "ネパール",
+    "region": "Asia",
+    "statusRaw": "Online Visa / Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Netherlands",
+    "countryJa": "オランダ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "New Zealand",
+    "countryJa": "ニュージーランド",
+    "region": "Oceania",
+    "statusRaw": "Electronic Travel Authority",
+    "category": "それ以外",
+    "notes": "電子旅行代理店のリクエストに応じて、3 か月分の国際訪問者保護観光税を支払う必要があります。 eGateを使用して入場できます。\nオーストラリアの永住者ビザまたは居住者帰国ビザの保有者は、性格要件を満たし、出発前に電子渡航認証を取得することを条件として、到着時に無期限滞在を許可するニュージーランド居住者ビザを付与される場合があります（トランス・タスマン旅行取り決めに従って）。このような旅行者は、国際観光客保護観光税を支払う必要はありません。"
+  },
+  {
+    "countryEng": "Nicaragua",
+    "countryJa": "ニカラグア",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Niger",
+    "countryJa": "ニジェール",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "日本政府は安全上の懸念から国民にニジェールへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Nigeria",
+    "countryJa": "ナイジェリア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "North Macedonia",
+    "countryJa": "北マケドニア ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Norway",
+    "countryJa": "ノルウェー",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Oman",
+    "countryJa": "オマーン",
+    "region": "Asia",
+    "statusRaw": "Visa not required / eVisa",
+    "category": "ビザ不要",
+    "notes": "14 日 / 30 日 日本国民も 30 日間有効の電子ビザを取得する資格があります。"
+  },
+  {
+    "countryEng": "Pakistan",
+    "countryJa": "パキスタン",
+    "region": "Asia",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Palau",
+    "countryJa": "パラオ",
+    "region": "Oceania",
+    "statusRaw": "Free visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Panama",
+    "countryJa": "パナマ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Papua New Guinea",
+    "countryJa": "パプアニューギニア",
+    "region": "Oceania",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "60 日間 ガーニー空港 (アロタウ)、マウント ハーゲン空港、ポート モレスビー空港、トクア空港 (ラバウル) でご利用いただけます。"
+  },
+  {
+    "countryEng": "Paraguay",
+    "countryJa": "パラグアイ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Peru",
+    "countryJa": "ペルー",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Philippines",
+    "countryJa": "フィリピン",
+    "region": "Asia",
+    "statusRaw": "Visa not required / eVisa",
+    "category": "ビザ不要",
+    "notes": "30 日 / 59 日 最長 59 日間の滞在用の 1 回または複数回入国の電子ビザも利用できます。\n単一入国電子ビザは 3 か月有効ですが、複数入国電子ビザは 6 か月または 1 年間有効です。"
+  },
+  {
+    "countryEng": "Poland",
+    "countryJa": "ポーランド",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Portugal",
+    "countryJa": "ポルトガル",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Qatar",
+    "countryJa": "カタール",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Romania",
+    "countryJa": "ルーマニア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Russia",
+    "countryJa": "ロシア連邦",
+    "region": "Europe",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "日本のパスポート保持者は30日間の正規ビザが無料。"
+  },
+  {
+    "countryEng": "Rwanda",
+    "countryJa": "ルワンダ",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30 日間 ケニアまたはウガンダが発行する東アフリカ観光ビザでも入国できます。"
+  },
+  {
+    "countryEng": "Saint Kitts and Nevis",
+    "countryJa": "セントクリストファー・ネイビス",
+    "region": "Americas",
+    "statusRaw": "Electronic Travel Authorisation",
+    "category": "それ以外",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Saint Lucia",
+    "countryJa": "セントルシア",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "6週間"
+  },
+  {
+    "countryEng": "Saint Vincent and the Grenadines",
+    "countryJa": "セントビンセントおよびグレナディーン諸島",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Samoa",
+    "countryJa": "サモア",
+    "region": "Oceania",
+    "statusRaw": "Entry permit on arrival",
+    "category": "E-Visa / OAV",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "San Marino",
+    "countryJa": "サンマリノ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "São Tomé and Príncipe",
+    "countryJa": "サントメ・プリンシペ",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "15日"
+  },
+  {
+    "countryEng": "Saudi Arabia",
+    "countryJa": "サウジアラビア",
+    "region": "Asia",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Senegal",
+    "countryJa": "セネガル",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Serbia",
+    "countryJa": "セルビア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 6 か月以内の 90 日。"
+  },
+  {
+    "countryEng": "Seychelles",
+    "countryJa": "セーシェル",
+    "region": "Africa",
+    "statusRaw": "Electronic Border System",
+    "category": "それ以外",
+    "notes": "3ヶ月 ご旅行の30日前までお申込みいただけます。\n訪問者は、セーシェルでの各訪問者の滞在場所の予約確認書をアップロードする必要があります。\n黄熱病流行国から来る場合は、黄熱病予防接種証明書が必要です。\n料金（10ユーロ）はクレジットカードまたはデビットカードでお支払いください。\n1回の旅行に限り有効で、出国すると期限が切れます。"
+  },
+  {
+    "countryEng": "Sierra Leone",
+    "countryJa": "シエラレオネ",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "3ヶ月/30日"
+  },
+  {
+    "countryEng": "Singapore",
+    "countryJa": "シンガポール",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Slovakia",
+    "countryJa": "スロバキア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Slovenia",
+    "countryJa": "スロベニア",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Solomon Islands",
+    "countryJa": "ソロモン諸島",
+    "region": "Oceania",
+    "statusRaw": "Free Visitor's Permit on arrival",
+    "category": "E-Visa / OAV",
+    "notes": "3 か月 訪問者は到着時に 1 年間のうち 3 か月有効の無料許可証を取得できます。"
+  },
+  {
+    "countryEng": "Somalia",
+    "countryJa": "ソマリア",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "30日 日本政府はソマリアでの戦争が続いていることに加え、外交公館がないことを理由にソマリアへの旅行を控えるよう国民に勧告した。"
+  },
+  {
+    "countryEng": "South Africa",
+    "countryJa": "南アフリカ",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "South Sudan",
+    "countryJa": "南スーダン",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "オンラインで入手可能。200 米ドルで 90 日間、350 米ドルで 180 日間。\n旅行時に印刷したビザ許可証を提示する必要があります。\n日本政府は国民に対し、犯罪と経済不安を理由に南スーダンへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Spain",
+    "countryJa": "スペイン",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Sri Lanka",
+    "countryJa": "スリランカ",
+    "region": "Asia",
+    "statusRaw": "Free ETA / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "30 日間の電子渡航認証は無料で付与/発行されます。"
+  },
+  {
+    "countryEng": "Sudan",
+    "countryJa": "スーダン",
+    "region": "Africa",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "スーダンで軍事紛争が続いているため、日本政府は国民にスーダンへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Suriname",
+    "countryJa": "スリナム",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90 日 到着前に 50 ドルまたは 50 ユーロの入場料をオンラインで支払う必要があります。\n数次入国電子ビザも利用可能です。"
+  },
+  {
+    "countryEng": "Sweden",
+    "countryJa": "スウェーデン",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Switzerland",
+    "countryJa": "スイス",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "シェンゲン圏内では 180 日以内の 90 日。"
+  },
+  {
+    "countryEng": "Syria",
+    "countryJa": "シリア・アラブ共和国",
+    "region": "Asia",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "シリアで紛争が続いているため、日本政府は国民にシリアへの旅行を控えるよう勧告している。"
+  },
+  {
+    "countryEng": "Tajikistan",
+    "countryJa": "タジキスタン",
+    "region": "Asia",
+    "statusRaw": "Visa not required / eVisa",
+    "category": "ビザ不要",
+    "notes": "30 日 / 60 日の日本人は、90 日以内に最大 60 日間滞在するために、到着前に 30 米ドルで 1 回または複数回入国できる電子ビザをオンラインで取得できます。電子ビザに加えて、訪問者は20ドルでゴルノ・バダフシャン自治州への訪問許可を申請できます。"
+  },
+  {
+    "countryEng": "Tanzania",
+    "countryJa": "タンザニア",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Thailand",
+    "countryJa": "タイ",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "60 日間 飛行機で到着しない場合は、年に最大 2 回の訪問。"
+  },
+  {
+    "countryEng": "Timor-Leste",
+    "countryJa": "東ティモール",
+    "region": "Asia",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "30 日間 すべての入国地点では入手できませんが、プレジデンテ ニコラウ ロバト国際空港またはディリ港で入手できます。\n料金: 交通機関 20 米ドル。観光客30ドル。ビジネス50ドル。"
+  },
+  {
+    "countryEng": "Togo",
+    "countryJa": "トーゴ",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "15日"
+  },
+  {
+    "countryEng": "Tonga",
+    "countryJa": "トンガ",
+    "region": "Oceania",
+    "statusRaw": "Free visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "31日"
+  },
+  {
+    "countryEng": "Trinidad and Tobago",
+    "countryJa": "トリニダード・トバゴ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Tunisia",
+    "countryJa": "チュニジア",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Turkey",
+    "countryJa": "トルコ",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "3ヶ月"
+  },
+  {
+    "countryEng": "Turkmenistan",
+    "countryJa": "トルクメニスタン",
+    "region": "Asia",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "観光目的でトルクメニスタンに入国する日本人を対象に、最長10日間の1回限りのビザ発給の割引料金が設定されています。日本人観光客の場合、10日間のビザ料金は25ドルです。ビザは申請数に応じて、東京のトルクメニスタン大使館から3日から7日以内に発行されます。\n国境を接していない 2 つの国の間を通過する場合、訪問者は 5 日間の滞在用のトルクメニスタン通過ビザを取得できます。これはトルクメニスタン大使館に事前に申請する必要があります。訪問者はトルクメニスタンへの入国国およびトルクメニスタンからの出国国のビザのコピーも提出する必要があります。ビザ手数料は20ドルです。"
+  },
+  {
+    "countryEng": "Tuvalu",
+    "countryJa": "ツバル",
+    "region": "Oceania",
+    "statusRaw": "Visa on arrival",
+    "category": "OAV (到着ビザ)",
+    "notes": "1ヶ月"
+  },
+  {
+    "countryEng": "Uganda",
+    "countryJa": "ウガンダ",
+    "region": "Africa",
+    "statusRaw": "eVisa",
+    "category": "E-Visa",
+    "notes": "3ヶ月 入国地で決定。\n旅行の少なくとも 2 営業日前までにオンラインで申請する必要があります。 2017 年 3 月の時点で、航空会社は電子ビザの申請が成功したという証明がない乗客のウガンダ行きの便への搭乗を拒否する場合があります。ウガンダ入国管理局は、帰国の航空券の証明やウガンダでの詳細なツアー旅程などの追加書類を要求する場合があります。\nケニアまたはルワンダが発行する東アフリカ観光ビザでも入国できます。\n国際予防接種証明書が必要です。"
+  },
+  {
+    "countryEng": "Ukraine",
+    "countryJa": "ウクライナ",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。\n日本政府は、ロシアによるウクライナへの侵略を理由に、国民に対しウクライナへの旅行を控えるよう勧告した。"
+  },
+  {
+    "countryEng": "United Arab Emirates",
+    "countryJa": "アラブ首長国連邦",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "United Kingdom",
+    "countryJa": "イギリス",
+    "region": "Europe",
+    "statusRaw": "Electronic Travel Authorisation",
+    "category": "それ以外",
+    "notes": "6ヶ月"
+  },
+  {
+    "countryEng": "United States",
+    "countryJa": "アメリカ",
+    "region": "Americas",
+    "statusRaw": "Visa Waiver Program",
+    "category": "それ以外",
+    "notes": "90日間のESTAは発行日から2年間有効です。\nESTAはクルーズ船や陸路で入国する場合にも必要です。\n陸路で米国に入国するにはフォーム I-94 が必要です。手数料は 30 ドルで、オンラインまたは到着時に入手できます。\n2011年3月1日以降のいずれかの時点でイラン、イラク、リビア、北朝鮮、ソマリア、スーダン、シリア、またはイエメンに旅行または滞在したVWP諸国の国民（限定的な例外を除く）、2021年1月12日以降のいずれかの時点でキューバに旅行または滞在したことがあるVWP諸国の国民、またはイラン、イラク、北朝鮮、スーダンまたはシリアの国民でもあるVWP諸国の国民にはビザが必要です。\nグアムと北マリアナ諸島ではESTAは必要ありません。"
+  },
+  {
+    "countryEng": "Uruguay",
+    "countryJa": "ウルグアイ",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Uzbekistan",
+    "countryJa": "ウズベキスタン",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30日"
+  },
+  {
+    "countryEng": "Vanuatu",
+    "countryJa": "バヌアツ",
+    "region": "Oceania",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "120日"
+  },
+  {
+    "countryEng": "Vatican City",
+    "countryJa": "バチカン市国",
+    "region": "Europe",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "180 日の期間内で 90 日、90 日。"
+  },
+  {
+    "countryEng": "Venezuela",
+    "countryJa": "ベネズエラ・ボリバル共和国",
+    "region": "Americas",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "90日"
+  },
+  {
+    "countryEng": "Vietnam",
+    "countryJa": "ベトナム",
+    "region": "Asia",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "45 日間 90 日間有効な 1 回入国電子ビザも利用できます。"
+  },
+  {
+    "countryEng": "Yemen",
+    "countryJa": "イエメン",
+    "region": "Asia",
+    "statusRaw": "Visa required",
+    "category": "大使館",
+    "notes": "イエメンで内戦が続いているため、日本政府は国民にイエメンへの旅行を控えるよう勧告している。\n乗客は、24 時間以内に第三国行きのフライトの確認済み乗り継ぎ航空券があれば、ビザなしで乗り継ぎできます。空港の国際線乗り継ぎエリアに滞在し、次の目的地に必要な書類を持っている必要があります。\nイエメンは、一定の資格要件（10人以上の団体旅行、出張、乗り継ぎなど）を満たす訪問者を対象に電子ビザシステムを導入した。"
+  },
+  {
+    "countryEng": "Zambia",
+    "countryJa": "ザンビア",
+    "region": "Africa",
+    "statusRaw": "Visa not required",
+    "category": "ビザ不要",
+    "notes": "30 日間の訪問者は、ジンバブエへのアクセスを許可するユニバーサル (KAZA) ビザを取得する資格があります。"
+  },
+  {
+    "countryEng": "Zimbabwe",
+    "countryJa": "ジンバブエ",
+    "region": "Africa",
+    "statusRaw": "eVisa / Visa on arrival",
+    "category": "E-Visa",
+    "notes": "1 か月 訪問者はザンビアへのアクセスを許可するユニバーサル (KAZA) ビザの取得資格があります。"
+  }
+]

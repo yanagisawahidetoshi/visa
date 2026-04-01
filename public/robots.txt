@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 本番デプロイ後に実際のドメインに変更してください
+Sitemap: https://your-domain.com/sitemap.xml
